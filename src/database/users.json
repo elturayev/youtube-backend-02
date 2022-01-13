@@ -1,0 +1,16 @@
+[
+    {
+        "userId": 1,
+        "username": "Dostonbek",
+        "password": "6849ea275ab55ab80e39e14790416e29027cf648a004a5f4b45a441a0751bac8",
+        "profileImg": "/images/oy.jpg",
+        "usercreateAt": "2022-01-09T06:46:33.686Z"
+    },
+    {
+        "userId": 2,
+        "username": "Dilshod",
+        "password": "84c045e02e48a18fb3516215883a708e04c9a0bb2d6725a2987a9ebe40df5718",
+        "profileImg": "/images/NASA.jpg",
+        "usercreateAt": "Wed Jan 12 2022 18:21:15 GMT+0500 (Узбекистан, стандартное время)"
+    }
+]
